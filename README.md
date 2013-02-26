@@ -1,0 +1,4 @@
+jpaFaktura
+==========
+
+Vaadin maven JPA
